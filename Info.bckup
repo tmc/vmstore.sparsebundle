@@ -5,14 +5,14 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>band-size</key>
-	<integer>67108864</integer>
+	<integer>8388608</integer>
 	<key>bundle-backingstore-version</key>
 	<integer>2</integer>
 	<key>diskimage-bundle-type</key>
 	<string>com.apple.diskimage.sparsebundle</string>
 	<key>size</key>
-	<integer>1000000000000</integer>
+	<integer>21990232555520</integer>
 	<key>uuid</key>
-	<string>d6afe320-15c2-4533-a895-b9e7d3435003</string>
+	<string>cbc684ad-3215-42d4-831a-c1d87ca3bbe6</string>
 </dict>
 </plist>
